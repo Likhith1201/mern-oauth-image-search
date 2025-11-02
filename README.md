@@ -1,3 +1,4 @@
+# mern-oauth-image-search
 MERN + OAuth Project: Image Search & Multi-Select
 
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application built as per the internship task requirements.
