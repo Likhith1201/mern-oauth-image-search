@@ -102,7 +102,6 @@ Navigate to the client directory:
 
 cd client
 
-
 Install all required npm packages:
 
 npm install
